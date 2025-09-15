@@ -78,7 +78,7 @@
 			"boundingVolume" : {
 				"region" : [ 2383.6114499815267, 7960.78705275062, 2384.350851004779, 7961.569988306803, 0, 10 ]
 			},
-			"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data68.b3dm"
+			"uri" : "data/data68.b3dm"
 		},
 		"children" : [
 			{
@@ -91,7 +91,7 @@
 					"boundingVolume" : {
 						"region" : [ 2383.6114499815267, 7960.78705275062, 2384.350851004779, 7961.569988306803, 0, 10 ]
 					},
-					"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data24.b3dm"
+					"uri" : "data/data24.b3dm"
 				},
 				"children" : [
 					{
@@ -104,7 +104,7 @@
 							"boundingVolume" : {
 								"region" : [ 2383.778355817895, 7960.78705275062, 2384.350851004779, 7961.569988306803, 0, 10 ]
 							},
-							"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data8.b3dm"
+							"uri" : "data/data8.b3dm"
 						},
 						"children" : [
 							{
@@ -117,7 +117,7 @@
 									"boundingVolume" : {
 										"region" : [ 2384.039352354238, 7961.24645831633, 2384.197523829991, 7961.569988306803, 0, 10 ]
 									},
-									"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data2.b3dm"
+									"uri" : "data/data2.b3dm"
 								},
 								"children" : [
 									{
@@ -130,7 +130,7 @@
 											"boundingVolume" : {
 												"region" : [ 2384.039352354238, 7961.366606782038, 2384.197523829991, 7961.569988306803, 0, 10 ]
 											},
-											"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data0.b3dm"
+											"uri" : "data/data0.b3dm"
 										},
 										"children" : []
 									},
@@ -144,7 +144,7 @@
 											"boundingVolume" : {
 												"region" : [ 2384.0516918320495, 7961.24645831633, 2384.1422841591652, 7961.333321660233, 0, 10 ]
 											},
-											"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data1.b3dm"
+											"uri" : "data/data1.b3dm"
 										},
 										"children" : []
 									}
@@ -160,7 +160,7 @@
 									"boundingVolume" : {
 										"region" : [ 2383.778355817895, 7961.457224276802, 2383.8689481450106, 7961.544087620704, 0, 10 ]
 									},
-									"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data3.b3dm"
+									"uri" : "data/data3.b3dm"
 								},
 								"children" : []
 							},
@@ -174,7 +174,7 @@
 									"boundingVolume" : {
 										"region" : [ 2384.0962326345602, 7960.819533328001, 2384.350851004779, 7961.176591093404, 0, 10 ]
 									},
-									"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data6.b3dm"
+									"uri" : "data/data6.b3dm"
 								},
 								"children" : [
 									{
@@ -187,7 +187,7 @@
 											"boundingVolume" : {
 												"region" : [ 2384.204024169164, 7961.064053956205, 2384.350851004779, 7961.176591093404, 0, 10 ]
 											},
-											"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data4.b3dm"
+											"uri" : "data/data4.b3dm"
 										},
 										"children" : []
 									},
@@ -201,7 +201,7 @@
 											"boundingVolume" : {
 												"region" : [ 2384.0962326345602, 7960.819533328001, 2384.186824961676, 7960.906396671902, 0, 10 ]
 											},
-											"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data5.b3dm"
+											"uri" : "data/data5.b3dm"
 										},
 										"children" : []
 									}
@@ -217,7 +217,7 @@
 									"boundingVolume" : {
 										"region" : [ 2383.917702905374, 7960.78705275062, 2384.00829523249, 7960.873916094522, 0, 10 ]
 									},
-									"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data7.b3dm"
+									"uri" : "data/data7.b3dm"
 								},
 								"children" : []
 							}
@@ -233,7 +233,7 @@
 							"boundingVolume" : {
 								"region" : [ 2383.6114499815267, 7960.951131153601, 2383.720089013108, 7961.276074860768, 0, 10 ]
 							},
-							"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data9.b3dm"
+							"uri" : "data/data9.b3dm"
 						},
 						"children" : []
 					},
@@ -247,7 +247,7 @@
 							"boundingVolume" : {
 								"region" : [ 2383.7750222390237, 7960.323685287508, 2384.1894255022617, 7960.729804258186, 0, 10 ]
 							},
-							"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data17.b3dm"
+							"uri" : "data/data17.b3dm"
 						},
 						"children" : [
 							{
@@ -260,7 +260,7 @@
 									"boundingVolume" : {
 										"region" : [ 2383.998267303646, 7960.585449768723, 2384.1894255022617, 7960.729804258186, 0, 10 ]
 									},
-									"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data10.b3dm"
+									"uri" : "data/data10.b3dm"
 								},
 								"children" : []
 							},
@@ -274,7 +274,7 @@
 									"boundingVolume" : {
 										"region" : [ 2383.7750222390237, 7960.323685287508, 2384.0399555051213, 7960.693798115718, 0, 10 ]
 									},
-									"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data16.b3dm"
+									"uri" : "data/data16.b3dm"
 								},
 								"children" : [
 									{
@@ -287,7 +287,7 @@
 											"boundingVolume" : {
 												"region" : [ 2383.869112938999, 7960.503524013635, 2384.039658799148, 7960.693798115718, 0, 10 ]
 											},
-											"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data11.b3dm"
+											"uri" : "data/data11.b3dm"
 										},
 										"children" : []
 									},
@@ -301,7 +301,7 @@
 											"boundingVolume" : {
 												"region" : [ 2383.819213975684, 7960.388018123738, 2384.0399555051213, 7960.5418672043315, 0, 10 ]
 											},
-											"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data14.b3dm"
+											"uri" : "data/data14.b3dm"
 										},
 										"children" : [
 											{
@@ -314,7 +314,7 @@
 													"boundingVolume" : {
 														"region" : [ 2383.9493631780056, 7960.419678396368, 2384.0399555051213, 7960.506541740269, 0, 10 ]
 													},
-													"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data12.b3dm"
+													"uri" : "data/data12.b3dm"
 												},
 												"children" : []
 											},
@@ -328,7 +328,7 @@
 													"boundingVolume" : {
 														"region" : [ 2383.819213975684, 7960.388018123738, 2383.9191263610055, 7960.5418672043315, 0, 10 ]
 													},
-													"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data13.b3dm"
+													"uri" : "data/data13.b3dm"
 												},
 												"children" : []
 											}
@@ -344,7 +344,7 @@
 											"boundingVolume" : {
 												"region" : [ 2383.7750222390237, 7960.323685287508, 2383.8656145661394, 7960.410548631409, 0, 10 ]
 											},
-											"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data15.b3dm"
+											"uri" : "data/data15.b3dm"
 										},
 										"children" : []
 									}
@@ -362,7 +362,7 @@
 							"boundingVolume" : {
 								"region" : [ 2383.424856831196, 7959.899273573301, 2383.648565420361, 7960.189677214571, 0, 10 ]
 							},
-							"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data23.b3dm"
+							"uri" : "data/data23.b3dm"
 						},
 						"children" : [
 							{
@@ -375,7 +375,7 @@
 									"boundingVolume" : {
 										"region" : [ 2383.424856831196, 7959.899273573301, 2383.648565420361, 7960.189677214571, 0, 10 ]
 									},
-									"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data22.b3dm"
+									"uri" : "data/data22.b3dm"
 								},
 								"children" : [
 									{
@@ -388,7 +388,7 @@
 											"boundingVolume" : {
 												"region" : [ 2383.5579730932454, 7960.10281387067, 2383.648565420361, 7960.189677214571, 0, 10 ]
 											},
-											"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data18.b3dm"
+											"uri" : "data/data18.b3dm"
 										},
 										"children" : []
 									},
@@ -402,7 +402,7 @@
 											"boundingVolume" : {
 												"region" : [ 2383.424856831196, 7959.899273573301, 2383.5649816024834, 7960.090717045983, 0, 10 ]
 											},
-											"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data21.b3dm"
+											"uri" : "data/data21.b3dm"
 										},
 										"children" : [
 											{
@@ -415,7 +415,7 @@
 													"boundingVolume" : {
 														"region" : [ 2383.424856831196, 7959.977027991477, 2383.5649816024834, 7960.090717045983, 0, 10 ]
 													},
-													"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data19.b3dm"
+													"uri" : "data/data19.b3dm"
 												},
 												"children" : []
 											},
@@ -429,7 +429,7 @@
 													"boundingVolume" : {
 														"region" : [ 2383.4511763963155, 7959.899273573301, 2383.5417687234317, 7959.986136917203, 0, 10 ]
 													},
-													"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data20.b3dm"
+													"uri" : "data/data20.b3dm"
 												},
 												"children" : []
 											}
@@ -451,7 +451,7 @@
 					"boundingVolume" : {
 						"region" : [ 2381.752220542547, 7960.010032167634, 2382.2060333402956, 7961.171791437961, 0, 10 ]
 					},
-					"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data39.b3dm"
+					"uri" : "data/data39.b3dm"
 				},
 				"children" : [
 					{
@@ -464,7 +464,7 @@
 							"boundingVolume" : {
 								"region" : [ 2381.752220542547, 7960.76481725595, 2382.158804730737, 7961.171791437961, 0, 10 ]
 							},
-							"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data29.b3dm"
+							"uri" : "data/data29.b3dm"
 						},
 						"children" : [
 							{
@@ -477,7 +477,7 @@
 									"boundingVolume" : {
 										"region" : [ 2382.0682124036207, 7960.932438677311, 2382.158804730737, 7961.019302021214, 0, 10 ]
 									},
-									"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data25.b3dm"
+									"uri" : "data/data25.b3dm"
 								},
 								"children" : []
 							},
@@ -491,7 +491,7 @@
 									"boundingVolume" : {
 										"region" : [ 2381.752220542547, 7960.76481725595, 2381.8790633582266, 7961.171791437961, 0, 10 ]
 									},
-									"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data28.b3dm"
+									"uri" : "data/data28.b3dm"
 								},
 								"children" : [
 									{
@@ -504,7 +504,7 @@
 											"boundingVolume" : {
 												"region" : [ 2381.752220542547, 7961.084928094059, 2381.842812869663, 7961.171791437961, 0, 10 ]
 											},
-											"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data26.b3dm"
+											"uri" : "data/data26.b3dm"
 										},
 										"children" : []
 									},
@@ -518,7 +518,7 @@
 											"boundingVolume" : {
 												"region" : [ 2381.7863766360083, 7960.76481725595, 2381.8790633582266, 7960.982021788392, 0, 10 ]
 											},
-											"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data27.b3dm"
+											"uri" : "data/data27.b3dm"
 										},
 										"children" : []
 									}
@@ -536,7 +536,7 @@
 							"boundingVolume" : {
 								"region" : [ 2381.810148020421, 7959.889796435463, 2382.2060333402956, 7960.723294180077, 0, 10 ]
 							},
-							"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data38.b3dm"
+							"uri" : "data/data38.b3dm"
 						},
 						"children" : [
 							{
@@ -549,7 +549,7 @@
 									"boundingVolume" : {
 										"region" : [ 2381.810148020421, 7960.302200284416, 2381.908908488436, 7960.723294180077, 0, 10 ]
 									},
-									"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data32.b3dm"
+									"uri" : "data/data32.b3dm"
 								},
 								"children" : [
 									{
@@ -562,7 +562,7 @@
 											"boundingVolume" : {
 												"region" : [ 2381.810148020421, 7960.636430836174, 2381.9007403475366, 7960.723294180077, 0, 10 ]
 											},
-											"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data30.b3dm"
+											"uri" : "data/data30.b3dm"
 										},
 										"children" : []
 									},
@@ -576,7 +576,7 @@
 											"boundingVolume" : {
 												"region" : [ 2381.8156807141495, 7960.302200284416, 2381.908908488436, 7960.555044440184, 0, 10 ]
 											},
-											"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data31.b3dm"
+											"uri" : "data/data31.b3dm"
 										},
 										"children" : []
 									}
@@ -592,7 +592,7 @@
 									"boundingVolume" : {
 										"region" : [ 2382.087219039175, 7959.889796435463, 2382.2060333402956, 7960.310366732347, 0, 10 ]
 									},
-									"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data36.b3dm"
+									"uri" : "data/data36.b3dm"
 								},
 								"children" : [
 									{
@@ -605,7 +605,7 @@
 											"boundingVolume" : {
 												"region" : [ 2382.11544101318, 7960.2235033884435, 2382.2060333402956, 7960.310366732347, 0, 10 ]
 											},
-											"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data33.b3dm"
+											"uri" : "data/data33.b3dm"
 										},
 										"children" : []
 									},
@@ -619,7 +619,7 @@
 											"boundingVolume" : {
 												"region" : [ 2382.1009547803883, 7960.10621726271, 2382.191547107504, 7960.193080606613, 0, 10 ]
 											},
-											"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data34.b3dm"
+											"uri" : "data/data34.b3dm"
 										},
 										"children" : []
 									},
@@ -633,7 +633,7 @@
 											"boundingVolume" : {
 												"region" : [ 2382.087219039175, 7959.889796435463, 2382.1881088088776, 7960.096895511535, 0, 10 ]
 											},
-											"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data35.b3dm"
+											"uri" : "data/data35.b3dm"
 										},
 										"children" : []
 									}
@@ -649,7 +649,7 @@
 									"boundingVolume" : {
 										"region" : [ 2381.810182927006, 7959.934965556504, 2381.9119802679197, 7960.182224658664, 0, 10 ]
 									},
-									"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data37.b3dm"
+									"uri" : "data/data37.b3dm"
 								},
 								"children" : []
 							}
@@ -667,7 +667,7 @@
 					"boundingVolume" : {
 						"region" : [ 2383.1900576869252, 7958.213652035019, 2384.3712189971493, 7959.933061454651, 0, 10 ]
 					},
-					"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data53.b3dm"
+					"uri" : "data/data53.b3dm"
 				},
 				"children" : [
 					{
@@ -680,7 +680,7 @@
 							"boundingVolume" : {
 								"region" : [ 2383.1900576869252, 7959.577120699969, 2383.4131554108526, 7959.933061454651, 0, 10 ]
 							},
-							"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data44.b3dm"
+							"uri" : "data/data44.b3dm"
 						},
 						"children" : [
 							{
@@ -693,7 +693,7 @@
 									"boundingVolume" : {
 										"region" : [ 2383.3225630837364, 7959.846198110748, 2383.4131554108526, 7959.933061454651, 0, 10 ]
 									},
-									"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data40.b3dm"
+									"uri" : "data/data40.b3dm"
 								},
 								"children" : []
 							},
@@ -707,7 +707,7 @@
 									"boundingVolume" : {
 										"region" : [ 2383.1900576869252, 7959.577120699969, 2383.389261853393, 7959.865098333577, 0, 10 ]
 									},
-									"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data43.b3dm"
+									"uri" : "data/data43.b3dm"
 								},
 								"children" : [
 									{
@@ -720,7 +720,7 @@
 											"boundingVolume" : {
 												"region" : [ 2383.2188381662904, 7959.647440015531, 2383.389261853393, 7959.865098333577, 0, 10 ]
 											},
-											"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data41.b3dm"
+											"uri" : "data/data41.b3dm"
 										},
 										"children" : []
 									},
@@ -734,7 +734,7 @@
 											"boundingVolume" : {
 												"region" : [ 2383.1900576869252, 7959.577120699969, 2383.280650014041, 7959.66398404387, 0, 10 ]
 											},
-											"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data42.b3dm"
+											"uri" : "data/data42.b3dm"
 										},
 										"children" : []
 									}
@@ -752,7 +752,7 @@
 							"boundingVolume" : {
 								"region" : [ 2383.8581697245886, 7958.25245070429, 2384.3712189971493, 7958.51550503618, 0, 10 ]
 							},
-							"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data49.b3dm"
+							"uri" : "data/data49.b3dm"
 						},
 						"children" : [
 							{
@@ -765,7 +765,7 @@
 									"boundingVolume" : {
 										"region" : [ 2384.0086520126956, 7958.325492733486, 2384.3712189971493, 7958.51550503618, 0, 10 ]
 									},
-									"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data47.b3dm"
+									"uri" : "data/data47.b3dm"
 								},
 								"children" : [
 									{
@@ -778,7 +778,7 @@
 											"boundingVolume" : {
 												"region" : [ 2384.2806266700336, 7958.428641692279, 2384.3712189971493, 7958.51550503618, 0, 10 ]
 											},
-											"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data45.b3dm"
+											"uri" : "data/data45.b3dm"
 										},
 										"children" : []
 									},
@@ -792,7 +792,7 @@
 											"boundingVolume" : {
 												"region" : [ 2384.0086520126956, 7958.325492733486, 2384.209409522197, 7958.46293571911, 0, 10 ]
 											},
-											"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data46.b3dm"
+											"uri" : "data/data46.b3dm"
 										},
 										"children" : []
 									}
@@ -808,7 +808,7 @@
 									"boundingVolume" : {
 										"region" : [ 2383.8581697245886, 7958.25245070429, 2383.9487620517048, 7958.339314048191, 0, 10 ]
 									},
-									"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data48.b3dm"
+									"uri" : "data/data48.b3dm"
 								},
 								"children" : []
 							}
@@ -824,7 +824,7 @@
 							"boundingVolume" : {
 								"region" : [ 2383.054009271732, 7958.213652035019, 2383.5617003834896, 7958.314757265616, 0, 10 ]
 							},
-							"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data52.b3dm"
+							"uri" : "data/data52.b3dm"
 						},
 						"children" : [
 							{
@@ -837,7 +837,7 @@
 									"boundingVolume" : {
 										"region" : [ 2383.471108056374, 7958.213652035019, 2383.5617003834896, 7958.30051537892, 0, 10 ]
 									},
-									"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data50.b3dm"
+									"uri" : "data/data50.b3dm"
 								},
 								"children" : []
 							},
@@ -851,7 +851,7 @@
 									"boundingVolume" : {
 										"region" : [ 2383.054009271732, 7958.215903509752, 2383.2900922452945, 7958.314757265616, 0, 10 ]
 									},
-									"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data51.b3dm"
+									"uri" : "data/data51.b3dm"
 								},
 								"children" : []
 							}
@@ -869,7 +869,7 @@
 					"boundingVolume" : {
 						"region" : [ 2381.646436136584, 7958.253044116236, 2382.9751999416494, 7959.5746580927525, 0, 10 ]
 					},
-					"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data67.b3dm"
+					"uri" : "data/data67.b3dm"
 				},
 				"children" : [
 					{
@@ -882,7 +882,7 @@
 							"boundingVolume" : {
 								"region" : [ 2381.646436136584, 7959.102740209277, 2382.079706409036, 7959.5746580927525, 0, 10 ]
 							},
-							"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data57.b3dm"
+							"uri" : "data/data57.b3dm"
 						},
 						"children" : [
 							{
@@ -895,7 +895,7 @@
 									"boundingVolume" : {
 										"region" : [ 2381.71961779212, 7959.487794748851, 2381.8102101192358, 7959.5746580927525, 0, 10 ]
 									},
-									"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data54.b3dm"
+									"uri" : "data/data54.b3dm"
 								},
 								"children" : []
 							},
@@ -909,7 +909,7 @@
 									"boundingVolume" : {
 										"region" : [ 2381.942513790892, 7959.102740209277, 2382.079706409036, 7959.503972258048, 0, 10 ]
 									},
-									"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data55.b3dm"
+									"uri" : "data/data55.b3dm"
 								},
 								"children" : []
 							},
@@ -923,7 +923,7 @@
 									"boundingVolume" : {
 										"region" : [ 2381.646436136584, 7959.193741676475, 2382.028009756592, 7959.33256347221, 0, 10 ]
 									},
-									"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data56.b3dm"
+									"uri" : "data/data56.b3dm"
 								},
 								"children" : []
 							}
@@ -939,7 +939,7 @@
 							"boundingVolume" : {
 								"region" : [ 2382.596244315519, 7958.253044116236, 2382.9751999416494, 7958.424468662396, 0, 10 ]
 							},
-							"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data60.b3dm"
+							"uri" : "data/data60.b3dm"
 						},
 						"children" : [
 							{
@@ -952,7 +952,7 @@
 									"boundingVolume" : {
 										"region" : [ 2382.7493271442113, 7958.253044116236, 2382.9751999416494, 7958.3775716653945, 0, 10 ]
 									},
-									"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data58.b3dm"
+									"uri" : "data/data58.b3dm"
 								},
 								"children" : []
 							},
@@ -966,7 +966,7 @@
 									"boundingVolume" : {
 										"region" : [ 2382.596244315519, 7958.337605318495, 2382.6868366426347, 7958.424468662396, 0, 10 ]
 									},
-									"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data59.b3dm"
+									"uri" : "data/data59.b3dm"
 								},
 								"children" : []
 							}
@@ -982,7 +982,7 @@
 							"boundingVolume" : {
 								"region" : [ 2381.6809762024805, 7958.357275179164, 2382.2808206987434, 7959.014634295666, 0, 10 ]
 							},
-							"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data66.b3dm"
+							"uri" : "data/data66.b3dm"
 						},
 						"children" : [
 							{
@@ -995,7 +995,7 @@
 									"boundingVolume" : {
 										"region" : [ 2381.9830926960008, 7958.597362671069, 2382.2808206987434, 7959.014634295666, 0, 10 ]
 									},
-									"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data61.b3dm"
+									"uri" : "data/data61.b3dm"
 								},
 								"children" : []
 							},
@@ -1009,7 +1009,7 @@
 									"boundingVolume" : {
 										"region" : [ 2381.6809762024805, 7958.357275179164, 2381.988198796354, 7958.661815987376, 0, 10 ]
 									},
-									"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data65.b3dm"
+									"uri" : "data/data65.b3dm"
 								},
 								"children" : [
 									{
@@ -1022,7 +1022,7 @@
 											"boundingVolume" : {
 												"region" : [ 2381.812783467591, 7958.427821387529, 2381.9033757947072, 7958.514684731432, 0, 10 ]
 											},
-											"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data62.b3dm"
+											"uri" : "data/data62.b3dm"
 										},
 										"children" : []
 									},
@@ -1036,7 +1036,7 @@
 											"boundingVolume" : {
 												"region" : [ 2381.6809762024805, 7958.574952643473, 2381.7715685295966, 7958.661815987376, 0, 10 ]
 											},
-											"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data63.b3dm"
+											"uri" : "data/data63.b3dm"
 										},
 										"children" : []
 									},
@@ -1050,7 +1050,7 @@
 											"boundingVolume" : {
 												"region" : [ 2381.8976064692383, 7958.357275179164, 2381.988198796354, 7958.444138523067, 0, 10 ]
 											},
-											"uri" : "https://github.com/hekautrecht-code/driedeetegel/blob/main/data/data64.b3dm"
+											"uri" : "data/data64.b3dm"
 										},
 										"children" : []
 									}
@@ -1063,4 +1063,3 @@
 		]
 	}
 }
-
